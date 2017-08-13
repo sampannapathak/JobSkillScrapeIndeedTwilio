@@ -1,5 +1,6 @@
 #####################################################################
 #Code by- Sampanna Pathak
+#Idea from Hardvard University CS109 2015
 #Parsing through the indeed.com database for a given job title and
 #find out how many jobs mention certain skills to priortize the learning
 #of skills

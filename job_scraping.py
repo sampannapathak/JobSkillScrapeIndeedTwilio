@@ -1,4 +1,14 @@
+#####################################################################
+#Code by- Sampanna Pathak
+#Parsing through the indeed.com database for a given job title and
+#find out how many jobs mention certain skills to priortize the learning
+#of skills
+#Plot them graphically using bar chart
+#Send the numbers over text message over twilio api
 #Python 3
+#####################################################################
+
+
 #Import all the required libraries
 import numpy as np 
 import pandas as pd 
